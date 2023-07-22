@@ -15,7 +15,7 @@ I graduated with Bachelor of Engineering degree in Information Technology from S
   - ASP.NET Web API
   - Microsoft SQL and PostgreSQL databases
 
-- 🌱📫 I'm always interested in learning more and improving myself, so I'm currently studying in my free time
+- 🌱 I'm always interested in learning more and improving myself, so I'm currently studying in my free time
   - React, HTML, CSS and JavaScript for web development
   - Unity for game development
   - Node.js for backend
