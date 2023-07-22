@@ -4,8 +4,8 @@ I'm an experienced Software Developer with most my expertise in Windows desktop 
 I graduated with Bachelor of Engineering degree in Information Technology from Seinäjoki University of Applied Sciences. 
 
 - ⚡ I am mostly experienced in
-• Desktop applications with C#, .NET Framework, WPF, WinForms
-• Windows Services
+  - Desktop applications with C#, .NET Framework, WPF, WinForms
+  - Windows Services
 
 - 🔭 I have some experience with
   - Android mobile apps with Java
