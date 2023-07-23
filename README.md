@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an experienced Software Developer with most my expertise in Windows desktop application development. 
+I'm an experienced Software Developer based in Seinäjoki Finland, with most my expertise in Windows desktop application development. 
 I graduated with Bachelor of Engineering degree in Information Technology from Seinäjoki University of Applied Sciences. 
 
 - 💼 I am mostly experienced in
