@@ -3,11 +3,11 @@
 I'm an experienced Software Developer with most my expertise in Windows desktop application development. 
 I graduated with Bachelor of Engineering degree in Information Technology from Seinäjoki University of Applied Sciences. 
 
-- ⚡ I am mostly experienced in
+- 💼 I am mostly experienced in
   - Desktop applications with C#, .NET Framework, WPF, WinForms
   - Windows Services
 
-- 🔭 I have some experience with
+- 🛠️ I have some experience with
   - Android mobile apps with Java
   - Flutter/Dart for cross-platform mobile apps and web
   - Python scripting
@@ -21,7 +21,7 @@ I graduated with Bachelor of Engineering degree in Information Technology from S
   - Node.js for backend
   - MongoDB for databases
 
-- 📫 Some technologies I'm interested learning at some point
+- 📚 Some technologies I'm interested learning at some point
   - Kotlin for Android mobile apps
   - Clojure for data management
   - Angular, Vue, Django, Celery for web
