@@ -31,4 +31,8 @@ I graduated with Bachelor of Engineering degree in Information Technology from S
 
 My other skills and interests include photo and video content creation, live and on-demand.
 
-You can view my current, past and future projects in my [projects](https://github.com/Koodattu/projects) github repository.
+Currently on my free time I'm working on: [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
+
+My past completed projecs are: [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request), [Priima Lounas](https://github.com/Koodattu/lunch-menu-app), [Räccis SeAMK Food Royale](https://github.com/Koodattu/jere-food-royale-android), [Tsumppi Coffee Shop](https://github.com/Koodattu/tsumppi-coffee-shop), [SeAMK Lukkari](https://github.com/Koodattu/SeAMK-Lukkari), [SeAMK WinhaWille](https://github.com/Koodattu/seamk-winhawille), [SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka).
+
+You can view all my current, past and future projects in my [projects](https://github.com/Koodattu/projects) github repository.
