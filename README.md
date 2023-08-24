@@ -2,6 +2,7 @@
 
 I'm an experienced Software Developer based in Seinäjoki Finland, with most my expertise in Windows desktop application development. 
 I graduated with Bachelor of Engineering degree in Information Technology from Seinäjoki University of Applied Sciences. 
+I'm currently studying a Master of Science degree in Information Technology in Tampere University.
 
 - 💼 I am mostly experienced in
   - Desktop applications with C#, .NET Framework, WPF, WinForms
