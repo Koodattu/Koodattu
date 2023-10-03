@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Student at Tampere University
-Software Developer / Software Designer
-C# / .NET / WPF / WinForms
-Bachelor of Information Technology graduate
-Pursuing a Master's degree in Computer Science / Information Technology
+- 🧾 About me
+  - Student at Tampere University
+  - Software Developer / Software Designer
+  - C# / .NET / WPF / WinForms
+  - Bachelor of Information Technology graduate
+  - Pursuing a Master's degree in Computer Science / Information Technology
 
 Hello there. I'm an experienced Software Developer located in Seinäjoki Finland with most my expertise in Windows desktop application development. I graduated with Bachelor of Engineering degree in Information Technology from Seinäjoki University of Applied Sciences. I'm currently pursuing a Master of Science degree in Information Technology at Tampere University.
 
@@ -34,7 +35,15 @@ Hello there. I'm an experienced Software Developer located in Seinäjoki Finland
   - AWS, GCP and Azure for cloud
   - 3D modeling, animation, music, other creative work
 
-My other skills and interests include photo and video content creation, live and on-demand.
+- ✨ My interest, hobbies and what I like to do on my free time
+  - 🎮 Games, 🎞️ Movies, 📺 Shows
+  - 💪 Gym, 🚲 Biking, 🚶 Walking
+  - 📷 Photography, 🎥 Videography, 💽 Content Creation
+  - 🖥️ Technology, 🥽 Virtual Reality
+  - 🎧 Music, 🎸 Guitar, 🎹 Piano, 🎤 Singing, 🕺 Dancing
+  - ☕ Coffee, 🥘 Food
+  - 🚗 Cars, 🏍️ Bikes
+  - 🧳 Travel
 
 Currently on my free time I'm working on: [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
 
