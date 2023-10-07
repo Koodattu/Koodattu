@@ -1,13 +1,17 @@
-### Hi there 👋
+# Hello there 👋
 
-- 🧾 About me
+### TL;DR
+- 💭 About me
   - Student at Tampere University
-  - Software Developer / Software Designer
+  - Software Developer / Designer
   - C# / .NET / WPF / WinForms
   - Bachelor of Information Technology graduate
   - Pursuing a Master's degree in Computer Science / Information Technology
+  - Interested in everything about technology
 
-Hello there. I'm an experienced Software Developer located in Seinäjoki Finland with most my expertise in Windows desktop application development. I graduated with Bachelor of Engineering degree in Information Technology from Seinäjoki University of Applied Sciences. I'm currently pursuing a Master of Science degree in Information Technology at Tampere University.
+### In case you want to learn more about me
+
+I'm an experienced Software Developer located in Seinäjoki, Finland, with most my expertise in Windows desktop application development. I graduated with Bachelor of Engineering degree in Information Technology from Seinäjoki University of Applied Sciences. I'm currently pursuing a Master of Science degree in Information Technology at Tampere University.
 
 - 💼 I am mostly experienced in
   - Desktop applications with C#, .NET Framework, WPF, WinForms
@@ -45,8 +49,15 @@ Hello there. I'm an experienced Software Developer located in Seinäjoki Finland
   - 🚗 Cars, 🏍️ Bikes
   - 🧳 Travel
 
-Currently on my free time I'm working on: [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
+- 👩🏻‍💻 Currently on my free time I'm working on: [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
 
-My past completed projecs are: [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request), [Priima Lounas](https://github.com/Koodattu/lunch-menu-app), [Räccis SeAMK Food Royale](https://github.com/Koodattu/jere-food-royale-android), [Tsumppi Coffee Shop](https://github.com/Koodattu/tsumppi-coffee-shop), [SeAMK Lukkari](https://github.com/Koodattu/SeAMK-Lukkari), [SeAMK WinhaWille](https://github.com/Koodattu/seamk-winhawille), [SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka).
+- 🚀 My past completed projecs are:
+  - [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
+  - [Priima Lounas](https://github.com/Koodattu/lunch-menu-app)
+  - [Räccis SeAMK Food Royale](https://github.com/Koodattu/jere-food-royale-android)
+  - [Tsumppi Coffee Shop](https://github.com/Koodattu/tsumppi-coffee-shop)
+  - [SeAMK Lukkari](https://github.com/Koodattu/SeAMK-Lukkari)
+  - [SeAMK WinhaWille](https://github.com/Koodattu/seamk-winhawille)
+  - [SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka).
 
-You can view all my current, past and future projects in my [projects](https://github.com/Koodattu/projects) github repository.
+- 🧾 You can view all my current, past and future projects in my [projects](https://github.com/Koodattu/projects) github repository.
