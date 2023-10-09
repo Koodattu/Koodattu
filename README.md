@@ -58,6 +58,6 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
   - [Tsumppi Coffee Shop](https://github.com/Koodattu/tsumppi-coffee-shop)
   - [SeAMK Lukkari](https://github.com/Koodattu/SeAMK-Lukkari)
   - [SeAMK WinhaWille](https://github.com/Koodattu/seamk-winhawille)
-  - [SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka).
+  - [SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka)
 
 - 🧾 You can view all my current, past and future projects in my [projects](https://github.com/Koodattu/projects) github repository.
