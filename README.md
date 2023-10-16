@@ -53,7 +53,7 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
 
 - 🚀 My past completed projecs are:
   - [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
-  - [Priima Lounas](https://github.com/Koodattu/lunch-menu-app)
+  - [Staff Restaurant Lunch Menu App](https://github.com/Koodattu/lunch-menu-app)
   - [Räccis SeAMK Food Royale](https://github.com/Koodattu/jere-food-royale-android)
   - [Tsumppi Coffee Shop](https://github.com/Koodattu/tsumppi-coffee-shop)
   - [SeAMK Lukkari](https://github.com/Koodattu/SeAMK-Lukkari)
