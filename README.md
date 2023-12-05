@@ -45,11 +45,13 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
   - 📷 Photography, 🎥 Videography, 💽 Content Creation
   - 🖥️ Technology, 🥽 Virtual Reality
   - 🎧 Music, 🎸 Guitar, 🎹 Piano, 🎤 Singing, 🕺 Dancing
-  - ☕ Coffee, 🥘 Food
+  - ☕ Coffee, 🥘 Food, 🍳 Cooking
   - 🚗 Cars, 🏍️ Bikes
   - 🧳 Travel
 
-- 👩🏻‍💻 Currently on my free time I'm working on: [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
+- 👩🏻‍💻 Currently on my free time I'm working on:
+  - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
+  - [Websites](https://koodattu.github.io)
 
 - 🚀 My past completed projecs are:
   - [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
