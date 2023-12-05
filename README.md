@@ -1,5 +1,7 @@
 # Hello there 👋
 
+- Visit my [personal website](https://ala-ranta.la) for my CV, about me and projects or continue reading down below:
+
 ### TL;DR
 - 💭 About me
   - Student at Tampere University
