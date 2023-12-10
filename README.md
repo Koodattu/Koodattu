@@ -52,10 +52,10 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
   - 🧳 Travel
 
 - 👩🏻‍💻 Currently on my free time I'm working on:
-  - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
   - [Websites](https://koodattu.github.io)
 
 - 🚀 My past completed projecs are:
+  - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
   - [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
   - [Staff Restaurant Lunch Menu App](https://github.com/Koodattu/lunch-menu-app)
   - [Räccis SeAMK Food Royale](https://github.com/Koodattu/jere-food-royale-android)
