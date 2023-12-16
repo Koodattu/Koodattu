@@ -10,6 +10,7 @@
   - Bachelor of Information Technology graduate
   - Pursuing a Master's degree in Computer Science / Information Technology
   - Interested in everything about technology
+  - My goal is to become an all rounder end-to-end developer
 
 ### In case you want to learn more about me
 
