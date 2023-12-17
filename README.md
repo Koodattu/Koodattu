@@ -4,11 +4,10 @@
 
 ### TL;DR
 - 💭 About me
-  - Student at Tampere University
-  - Software Developer / Designer
-  - C# / .NET / WPF / WinForms
-  - Bachelor of Information Technology graduate
-  - Pursuing a Master's degree in Computer Science / Information Technology
+  - Currently student at Tampere University pursuing a Master's degree in Computer Science / Information Technology
+  - Previously worked as Software Developer / Designer for 4.5 years
+  - Mainly C# / .NET / WPF / WinForms
+  - Bachelor of Information Technology graduate with weighted grades of 4.24 and received max grade (5) for my [thesis](https://www.theseus.fi/handle/10024/168319)
   - Interested in everything about technology
   - My goal is to become an all rounder end-to-end developer
 
