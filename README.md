@@ -5,7 +5,7 @@
 ### TL;DR
 - 💭 About me
   - Currently studying at Tampere University pursuing a Master's degree in Computer Science / Information Technology
-  - Previously worked as Software Developer / Designer for 4.5 years
+  - Previously worked as Software Developer / Designer for almost 5 years
   - Mainly C# / .NET / WPF / WinForms
   - Bachelor of Information Technology graduate, received max grade (5) for my [thesis](https://www.theseus.fi/handle/10024/168319)
   - Interested in everything about technology
@@ -54,6 +54,7 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
 - 👩🏻‍💻 Currently on my free time I'm working on:
   - [Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
   - [Fyr'alath price tracker](https://github.com/Koodattu/fyralath-price-tracker)
+  - [SeAMK Ruoka Flutter](https://github.com/Koodattu/seamk-ruoka-flutter)
 
 - 🚀 My completed and maintained projecs are:
   - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
