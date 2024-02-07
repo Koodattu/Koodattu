@@ -52,11 +52,20 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
   - 🧳 Travel
 
 - 👩🏻‍💻 Currently on my free time I'm working on:
-  - [Websites](https://koodattu.github.io)
+  - [Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
+  - [Fyr'alath price tracker](https://github.com/Koodattu/fyralath-price-tracker)
 
-- 🚀 My past completed projecs are:
+- 🚀 My completed and maintained projecs are:
   - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
   - [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
+  - [Staff Restaurant Lunch Menu App](https://github.com/Koodattu/lunch-menu-app)
+  - [Räccis SeAMK Food Royale](https://github.com/Koodattu/jere-food-royale-android)
+  - [Tsumppi Coffee Shop](https://github.com/Koodattu/tsumppi-coffee-shop)
+  - [SeAMK Lukkari](https://github.com/Koodattu/SeAMK-Lukkari)
+  - [SeAMK WinhaWille](https://github.com/Koodattu/seamk-winhawille)
+  - [SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka)
+
+- ⚓ My completed and no longer maintained projecs are:
   - [Staff Restaurant Lunch Menu App](https://github.com/Koodattu/lunch-menu-app)
   - [Räccis SeAMK Food Royale](https://github.com/Koodattu/jere-food-royale-android)
   - [Tsumppi Coffee Shop](https://github.com/Koodattu/tsumppi-coffee-shop)
