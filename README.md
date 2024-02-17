@@ -18,14 +18,13 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
 
 - 💼 I am mostly experienced in
   - Desktop applications with C#, .NET Framework, WPF, WinForms
-  - Windows Services
 
 - 🛠️ I have some experience with
   - Android mobile apps with Java
-  - Flutter/Dart for cross-platform mobile apps and web
-  - Python scripting
-  - Java Spring Boot backend
-  - ASP.NET Web API
+  - Flutter/Dart for cross-platform mobile apps
+  - Flask and Python scripts 
+  - Java backend with Spring Boot
+  - ASP.NET Web API with C#
   - Microsoft SQL and PostgreSQL databases
 
 - 🌱 I'm always interested in learning more and improving myself, so I'm currently studying in my free time
@@ -34,23 +33,13 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
   - Node.js for backend
   - MongoDB for databases
 
-- 📚 Some technologies I'm interested learning at some point
-  - Kotlin for Android mobile apps
-  - Clojure for data management
-  - Angular, Vue, Django, Celery for web
-  - Python for backend, machine learning, neural networking and internet of things
-  - AWS, GCP and Azure for cloud
-  - 3D modeling, animation, music, other creative work
-
 - ✨ My interest, hobbies and what I like to do on my free time
   - 🎮 Games, 🎞️ Movies, 📺 Shows
   - 💪 Gym, 🚲 Biking, 🚶 Walking
-  - 📷 Photography, 🎥 Videography, 💽 Content Creation
-  - 🖥️ Technology, 🥽 Virtual Reality
-  - 🎧 Music, 🎸 Guitar, 🎹 Piano, 🎤 Singing, 🕺 Dancing
+  - 💽 Content Creation, 🖥️ Technology, 🥽 Virtual Reality
+  - 🎧 Music, 🎸 Guitar, 🎹 Piano
   - ☕ Coffee, 🥘 Food, 🍳 Cooking
   - 🚗 Cars, 🏍️ Bikes
-  - 🧳 Travel
 
 - 👩🏻‍💻 Currently on my free time I'm working on:
   - [Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
