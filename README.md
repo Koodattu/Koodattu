@@ -43,7 +43,7 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
 
 - 👩🏻‍💻 Currently on my free time I'm working on:
   - [Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
-  - [Fyr'alath price tracker](https://github.com/Koodattu/fyralath-price-tracker)
+  - [Fyr'alath Data Tracker](https://github.com/Koodattu/fyralath-data-tracker)
   - [SeAMK Ruoka Flutter](https://github.com/Koodattu/seamk-ruoka-flutter)
 
 - 🚀 My completed and maintained projecs are:
