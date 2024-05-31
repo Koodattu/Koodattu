@@ -42,11 +42,10 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
   - 🚗 Cars, 🏍️ Bikes
 
 - 👩🏻‍💻 Currently on my free time I'm working on:
-  - [SeAMK Ruoka Flutter](https://github.com/Koodattu/seamk-ruoka-flutter)
+  - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
 
 - 🚀 My completed and maintained projecs are:
   - [Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
-  - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
   - [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
 
 - 🥅 My completed and no longer maintained projecs are:
