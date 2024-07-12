@@ -5,10 +5,11 @@
 
 ### TL;DR
 - 💭 About me
-  - Currently studying at Tampere University pursuing a Master's degree in Computer Science / Information Technology
-  - Previously worked as Software Developer / Designer for almost 5 years
-  - Mainly C# / .NET / WPF / WinForms
-  - Bachelor of Information Technology graduate, received max grade (5) for my [thesis](https://www.theseus.fi/handle/10024/168319)
+  - Currently working at Tampere University, University consortium of Seinäjoki as an AI Research Assistant on the GPT Lab and GPT Lab Seinäjoki -projects
+  - Also studying at Tampere University pursuing a Master's degree in Computer Science / Information Technology
+  - I have experience working as a Software Engineer, Developer and Designer for close to 5 years
+  - Most familiar with C#, .NET, WPF and WinForms
+  - Bachelor of Information Technology graduate, received max grade for my [thesis](https://www.theseus.fi/handle/10024/168319)
   - Interested in everything about technology
   - My goal is to become an all rounder end-to-end developer
 
