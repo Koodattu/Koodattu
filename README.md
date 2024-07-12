@@ -5,7 +5,7 @@
 
 ### TL;DR
 - 💭 About me
-  - Currently working at Tampere University, University consortium of Seinäjoki as an AI Research Assistant on the GPT Lab and GPT Lab Seinäjoki -projects
+  - Currently working at Tampere University as a Research Assistant on the GPT Lab and GPT Lab Seinäjoki -projects
   - Also studying at Tampere University pursuing a Master's degree in Computer Science / Information Technology
   - I have experience working as a Software Engineer, Developer and Designer for close to 5 years
   - Most familiar with C#, .NET, WPF and WinForms
