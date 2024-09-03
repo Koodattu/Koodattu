@@ -1,17 +1,18 @@
 # Hello there 👋
 
 - Visit my [personal website](https://ala-ranta.la) for my CV, about me and projects (or continue reading down below).
-- Visit my [developer website](https://koodattu.dev) for quick links to my projects.
+- View my [completed projects](https://github.com/Koodattu/projects-completed) (you might prefer this one).
+- Visit my [developer website](https://koodattu.dev) for quick links to my projects (WIP).
 
 ### TL;DR
 - 💭 About me
-  - Currently working at Tampere University as a Research Assistant on the GPT Lab and GPT Lab Seinäjoki -projects
-  - Also studying at Tampere University pursuing a Master's degree in Computer Science / Information Technology
-  - I have experience working as a Software Engineer, Developer and Designer for close to 5 years
-  - Most familiar with C#, .NET, WPF and WinForms
-  - Bachelor of Information Technology graduate, received max grade for my [thesis](https://www.theseus.fi/handle/10024/168319)
-  - Interested in everything about technology
-  - My goal is to become an all rounder end-to-end developer
+  - 👩🏻‍💻 Currently working at Tampere University as a Research Assistant on the GPT Lab and GPT Lab Seinäjoki -projects
+  - 🎓 Also studying at Tampere University pursuing a Master's degree in Computer Science / Information Technology
+  - 💼 I have experience working as a Software Engineer, Developer and Designer for close to 5 years
+  - 🛠️ Most familiar with C#, .NET, WPF and WinForms
+  - 👨‍🎓 Bachelor of Information Technology graduate, received max grade for my [thesis](https://www.theseus.fi/handle/10024/168319)
+  - 🤖 Interested in everything about technology
+  - 🚀 My goal is to become an all rounder end-to-end developer
 
 ### In case you want to learn more about me
 
@@ -44,6 +45,7 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
 
 - 👩🏻‍💻 Currently on my free time I'm working on:
   - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
+  - [Sodexo Flutter Lunch App](https://github.com/Koodattu/sodexo-flutter-lunch-app)
 
 - 🚀 My completed and maintained projecs are:
   - [Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
@@ -58,4 +60,4 @@ I'm an experienced Software Developer located in Seinäjoki, Finland, with most 
   - [SeAMK WinhaWille](https://github.com/Koodattu/seamk-winhawille)
   - [SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka)
 
-- 📑 Current, past and future projects can be found in [projects](https://github.com/Koodattu/projects) github repository.
+- 📑 Future projects can be found in [projects](https://github.com/Koodattu/project-ideas) github repository.
