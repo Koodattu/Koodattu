@@ -1,7 +1,7 @@
 # Hello there 👋
 
 - Visit my [personal website](https://ala-ranta.la) for my CV, about me and projects (or continue reading down below).
-- View my [completed projects](https://github.com/Koodattu/projects-completed) (you might prefer this one).
+- View my [completed projects](https://ala-ranta.la/projects) (you might prefer this one).
 - Visit my [developer website](https://koodattu.dev) for quick links to my projects (WIP).
 
 ### TL;DR
