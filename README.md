@@ -1,53 +1,30 @@
 # Hello there 👋
 
+My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always interested in building something new!
+
 - Visit my [personal website](https://ala-ranta.la) for my CV, about me and projects (or continue reading down below).
-- View my [completed projects](https://ala-ranta.la/projects) (you might prefer this one).
-- Visit my [developer website](https://koodattu.dev) for quick links to my projects (WIP).
 
-### TL;DR
-- 💭 About me
-  - 👩🏻‍💻 Currently working at Tampere University as a Research Assistant on the [GPT Lab](https://gpt-lab.eu/our-team/) and [GPT Lab Seinäjoki](https://www.tuni.fi/fi/tutkimus/gpt-lab-seinajoki) -projects
-  - 🎓 Also studying at Tampere University pursuing a Master's degree in Computer Science / Information Technology
-  - 💼 I have experience working as a Software Engineer, Developer and Designer for close to 5 years
-  - 🛠️ Most familiar with C#, .NET, WPF and WinForms
-  - 👨‍🎓 Bachelor of Information Technology graduate, received max grade for my [thesis](https://www.theseus.fi/handle/10024/168319)
-  - 🤖 Interested in everything about technology
-  - 🚀 My goal is to become an all rounder end-to-end developer
+### 💭 About me
+- 👩🏻‍💻 Currently working at [Clevoy Oy](https://clevoy.io/) as a Chief Technology Officer, responsbile for the company's technical stack
+- 🎓 Master of Science in Information Technology graduate from Tampere University with GPA of 4.52 (out of 5), received max grade (5 out of 5) for my [master's thesis](https://trepo.tuni.fi/handle/10024/230809)
+- 💼 I have experience working professionally as a Software Engineer, Developer and Designer for over 6 years
+- 🛠️ Familiar with many tech stacks on many platforms, including web, desktop and mobile applications
+- 👨‍🎓 Bachelor of Information Technology graduate from [Seinäjoki University of Applied Sciences](https://www.seamk.fi/) with GPA of 4.24 (out of 5), received max grade (5 out of 5) for my [bachelor's thesis](https://www.theseus.fi/handle/10024/168319)
+- 🤖 Always interested in everything about technology
 
-### In case you want to learn more about me
+### ✨ What I like to do on my free time
+- 🎮 Games, 🎞️ Movies, 📺 Shows
+- 💪 Gym, 🚲 Biking, 🚶 Walking
+- 💽 Content Creation, 🖥️ Technology, 🥽 Virtual Reality
+- 🎧 Music, 🎸 Guitar, 🎹 Piano
+- ☕ Coffee, 🥘 Food, 🍳 Cooking
+- 🚗 Cars, 🏍️ Bikes
 
-I'm an experienced Software Developer located in Seinäjoki, Finland, with most my expertise in Windows desktop application development. I graduated with Bachelor of Engineering degree in Information Technology from Seinäjoki University of Applied Sciences. I'm currently pursuing a Master of Science degree in Information Technology at Tampere University.
-
-- 💼 I am mostly experienced with
-  - Desktop applications with C#, .NET Framework, WPF, WinForms
-
-- 🛠️ I have some experience in
-  - Android mobile apps with Java
-  - Flutter/Dart for cross-platform mobile apps
-  - Flask and Python scripts 
-  - Java backend with Spring Boot
-  - ASP.NET Web API with C#
-  - Microsoft SQL and PostgreSQL databases
-
-- 🌱 I'm always interested in learning more and improving myself, so currently in my free time I'm studying
-  - React, HTML, CSS and JavaScript for web development
-  - Unity for game development
-  - Node.js for backend
-  - MongoDB for databases
-
-- ✨ My interest, hobbies and what I like to do on my free time
-  - 🎮 Games, 🎞️ Movies, 📺 Shows
-  - 💪 Gym, 🚲 Biking, 🚶 Walking
-  - 💽 Content Creation, 🖥️ Technology, 🥽 Virtual Reality
-  - 🎧 Music, 🎸 Guitar, 🎹 Piano
-  - ☕ Coffee, 🥘 Food, 🍳 Cooking
-  - 🚗 Cars, 🏍️ Bikes
+### 🚀 Project highlights
 
 - 👩🏻‍💻 Currently on my free time I'm working on:
   - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
   - [Sodexo Flutter Lunch App](https://github.com/Koodattu/sodexo-flutter-lunch-app)
-
-- 🚀 My completed and maintained projecs are:
   - [Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
   - [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
 
