@@ -22,13 +22,20 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
 
 ### 🚀 Project highlights
 
-- 👩🏻‍💻 Currently on my free time I'm working on:
-  - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
-  - [Sodexo Flutter Lunch App](https://github.com/Koodattu/sodexo-flutter-lunch-app)
-  - [Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
-  - [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
+- 👩🏻‍💻 Recent:
+  - [AI-Powered Web Dev Workshop Playground](https://github.com/Koodattu/ai-workshop-playground)
+  - [Finnish World of Warcraft Guild Progress Tracker](https://github.com/Koodattu/wow-guild-progress-tracker)
+  - [Personal Twitch Stream Statistics Tracker](https://github.com/Koodattu/vaarattu.tv)
+  - [Personal Website and Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
+  - [AI-Powered Twitch Chat Bot](https://github.com/Koodattu/ai-vaarabot-ttv)
+  - [Simple AI-Powered Image Generation and Editing App](https://github.com/Koodattu/generative-imagining)
+  - [Voice-Guided Image Generation and Editing with Local and Cloud Models](https://github.com/Koodattu/voice-guided-imaging)
+  - [World of Warcraft Warcraftlogs combined with VOD Review](https://github.com/Koodattu/wcl-vod-review)
+  - [Sodexo Lunch Menu App](https://github.com/Koodattu/sodexo-flutter-lunch-app)
 
-- 🥅 My completed and no longer maintained projecs are:
+- 🥅 Older:
+  - [Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
+  - [Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
   - [Fyr'alath Data Tracker](https://github.com/Koodattu/fyralath-data-tracker)
   - [Staff Restaurant Lunch Menu App](https://github.com/Koodattu/lunch-menu-app)
   - [Räccis SeAMK Food Royale](https://github.com/Koodattu/jere-food-royale-android)
@@ -37,4 +44,4 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
   - [SeAMK WinhaWille](https://github.com/Koodattu/seamk-winhawille)
   - [SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka)
 
-- 📑 Future projects can be found in [projects](https://github.com/Koodattu/project-ideas) github repository.
+- 📑 Looking for inspiration? Take a look at my [project ideas](https://github.com/Koodattu/project-ideas) repository.
