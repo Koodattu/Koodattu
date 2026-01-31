@@ -2,7 +2,7 @@
 
 My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always interested in building something new!
 
-- View my current, past and future [projects](https://github.com/Koodattu/projects) or my infinite list of project [ideas](https://github.com/Koodattu/project-ideas)
+- View my current, past and future [projects](https://github.com/Koodattu/projects) or my infinite list of project [ideas](https://github.com/Koodattu/project-ideas)!
 - Visit my [personal website](https://ala-ranta.la) or continue reading down below!
 
 ### 💭 About me
