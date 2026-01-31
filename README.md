@@ -7,10 +7,10 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
 
 ### 💭 About me
 - 👩🏻‍💻 Currently working at [Clevoy Oy](https://clevoy.io/) as a Chief Technology Officer, responsbile for the company's technical stack
-- 🎓 Master of Science in Information Technology graduate from Tampere University with GPA of 4.52 (out of 5), received max grade (5 out of 5) for my [master's thesis](https://trepo.tuni.fi/handle/10024/230809)
+- 🎓 Master of Science in Information Technology graduate from Tampere University with GPA of 4.52 (out of 5), received max grade of 5 (out of 5) for my [master's thesis](https://trepo.tuni.fi/handle/10024/230809)
 - 💼 I have experience working professionally as a Software Engineer, Developer and Designer for over 6 years
 - 🛠️ Familiar with many tech stacks on many platforms, including web, desktop and mobile applications
-- 👨‍🎓 Bachelor of Engineering in Information Technology graduate from [Seinäjoki University of Applied Sciences](https://www.seamk.fi/) with GPA of 4.24 (out of 5), received max grade (5 out of 5) for my [bachelor's thesis](https://www.theseus.fi/handle/10024/168319)
+- 👨‍🎓 Bachelor of Engineering in Information Technology graduate from [Seinäjoki University of Applied Sciences](https://www.seamk.fi/) with GPA of 4.24 (out of 5), received max grade of 5 (out of 5) for my [bachelor's thesis](https://www.theseus.fi/handle/10024/168319)
 - 🤖 Always interested in everything about technology
 
 ### ✨ What I like to do on my free time
