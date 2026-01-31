@@ -2,7 +2,8 @@
 
 My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always interested in building something new!
 
-- Visit my [personal website](https://ala-ranta.la) for my CV, about me and projects (or continue reading down below).
+- View my current, past and future [projects](https://github.com/Koodattu/projects) or my infinite list of project [ideas](https://github.com/Koodattu/project-ideas)
+- Visit my [personal website](https://ala-ranta.la) or continue reading down below!
 
 ### 💭 About me
 - 👩🏻‍💻 Currently working at [Clevoy Oy](https://clevoy.io/) as a Chief Technology Officer, responsbile for the company's technical stack
@@ -43,5 +44,3 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
   - [SeAMK Lukkari](https://github.com/Koodattu/SeAMK-Lukkari)
   - [SeAMK WinhaWille](https://github.com/Koodattu/seamk-winhawille)
   - [SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka)
-
-- 📑 Looking for inspiration? Take a look at my [project ideas](https://github.com/Koodattu/project-ideas) repository.
