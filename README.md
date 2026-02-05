@@ -29,31 +29,36 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
 - 🌐[Personal Website and Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
 
 #### ✨ GenAI
-  - 🪄[AI-Powered Web Dev Workshop Playground](https://github.com/Koodattu/ai-workshop-playground)
-  - 🎨[Simple AI-Powered Image Generation and Editing App](https://github.com/Koodattu/generative-imagining)
-  - 🎙️[Voice-Guided Image Generation and Editing with Local and Cloud Models](https://github.com/Koodattu/voice-guided-imaging)
+- 🪄[AI-Powered Web Dev Workshop Playground](https://github.com/Koodattu/ai-workshop-playground)
+- 🎨[Simple AI-Powered Image Generation and Editing App](https://github.com/Koodattu/generative-imagining)
+- 🎙️[Voice-Guided Image Generation and Editing with Local and Cloud Models](https://github.com/Koodattu/voice-guided-imaging)
 
 #### 🎥 Twitch
-  - 🧭[Personal Twitch Stream Statistics Tracker](https://github.com/Koodattu/vaarattu.tv)
-  - 🤖[AI-Powered Twitch Chat Bot](https://github.com/Koodattu/ai-vaarabot-ttv)
-  - 🎵[Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
-  - 🎧[Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
+- 🎭[Vaarabot AI VTuber](https://github.com/Koodattu/vaarabot-ai-vtuber)
+- 🧭[Personal Twitch Stream Statistics Tracker](https://github.com/Koodattu/vaarattu.tv)
+- 🤖[AI-Powered Twitch Chat Bot](https://github.com/Koodattu/ai-vaarabot-ttv)
+- 🎵[Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
+- 🎧[Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
 
 #### 🏰 World of Warcraft
-  - 🛡️[Finnish World of Warcraft Guild Progress Tracker](https://github.com/Koodattu/wow-guild-progress-tracker)
-  - 🔎[World of Warcraft Warcraftlogs combined with VOD Review](https://github.com/Koodattu/wcl-vod-review)
-  - 🪓[Fyr'alath Data Tracker](https://github.com/Koodattu/fyralath-data-tracker)
+- 🛡️[Finnish World of Warcraft Guild Progress Tracker](https://github.com/Koodattu/wow-guild-progress-tracker)
+- 🔎[World of Warcraft Warcraftlogs combined with VOD Review](https://github.com/Koodattu/wcl-vod-review)
+- 🪓[Fyr'alath Data Tracker](https://github.com/Koodattu/fyralath-data-tracker)
 
 #### 🏫 Academy
-  - 📓[TUNI Projects](https://github.com/Koodattu/tuni-projects):
-    - 🏆[GPT Lab Scorekeeper](https://github.com/Koodattu/TUNI-Projects/tree/main/gpt-lab-score-keeper)
-  - 📕[SeAMK Projects](https://github.com/Koodattu/seamk-projects):
-    - 📅[SeAMK Lukkari](https://github.com/Koodattu/SeAMK-Lukkari)
-    - 📱[Räccis SeAMK Food Royale](https://github.com/Koodattu/jere-food-royale-android)
-    - ☕[Tsumppi Coffee Shop](https://github.com/Koodattu/tsumppi-coffee-shop)
-    - 🎓[SeAMK WinhaWille](https://github.com/Koodattu/seamk-winhawille)
-    - 🍔[SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka)
+- 📓[TUNI Projects](https://github.com/Koodattu/tuni-projects)
+  - 🛟[Unity 3D AI Assistant](https://github.com/Koodattu/unity-3d-ai-assistant)
+  - 📞[Whats AI Assistant](https://github.com/Koodattu/whats-ai-assistant)
+  - 🔊[AI Voice Assistant Framework](https://github.com/Koodattu/TUNI-Projects/tree/main/voice-ai-assistant-framework)
+  - 🏆[GPT Lab Scorekeeper](https://github.com/Koodattu/TUNI-Projects/tree/main/gpt-lab-score-keeper)
+  
+- 📘[SeAMK Projects](https://github.com/Koodattu/seamk-projects)
+  - 📅[SeAMK Lukkari](https://github.com/Koodattu/SeAMK-Lukkari)
+  - 📱[Räccis SeAMK Food Royale](https://github.com/Koodattu/SeAMK-Projects/tree/main/jere-food-royale-android)
+  - ☕[Tsumppi Coffee Shop](https://github.com/Koodattu/tsumppi-coffee-shop)
+  - 🎓[SeAMK WinhaWille](https://github.com/Koodattu/SeAMK-Projects/tree/main/seamk-winhawille)
+  - 🍔[SeAMK Ruoka](https://github.com/Koodattu/SeAMK-Projects/tree/main/seamk-ruoka)
 
 #### 🥪 Food
-  - 🍱[Sodexo Lunch Menu App](https://github.com/Koodattu/sodexo-flutter-lunch-app)
-  - 🍱[Staff Restaurant Lunch Menu App](https://github.com/Koodattu/lunch-menu-app)
+- 🍱[Sodexo Lunch Menu App](https://github.com/Koodattu/sodexo-flutter-lunch-app)
+- 🍱[Staff Restaurant Lunch Menu App](https://github.com/Koodattu/lunch-menu-app)
