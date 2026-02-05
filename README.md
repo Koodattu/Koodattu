@@ -23,28 +23,28 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
 
 ### 🚀 Project highlights
 
-- 🌌 View all: [Projects Showcase](https://github.com/Koodattu/projects)
+#### 🌌 View all: [Projects Showcase](https://github.com/Koodattu/projects)
 
-- 🧹 Misc:
-  - 🌐[Personal Website and Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
+#### 🧹 Misc
+- 🌐[Personal Website and Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
 
-- ✨ GenAI
+#### ✨ GenAI
   - 🪄[AI-Powered Web Dev Workshop Playground](https://github.com/Koodattu/ai-workshop-playground)
   - 🎨[Simple AI-Powered Image Generation and Editing App](https://github.com/Koodattu/generative-imagining)
   - 🎙️[Voice-Guided Image Generation and Editing with Local and Cloud Models](https://github.com/Koodattu/voice-guided-imaging)
 
-- 🎥 Twitch
+#### 🎥 Twitch
   - 🧭[Personal Twitch Stream Statistics Tracker](https://github.com/Koodattu/vaarattu.tv)
   - 🤖[AI-Powered Twitch Chat Bot](https://github.com/Koodattu/ai-vaarabot-ttv)
   - 🎵[Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
   - 🎧[Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
 
-- 🏰 World of Warcraft
+#### 🏰 World of Warcraft
   - 🛡️[Finnish World of Warcraft Guild Progress Tracker](https://github.com/Koodattu/wow-guild-progress-tracker)
   - 🔎[World of Warcraft Warcraftlogs combined with VOD Review](https://github.com/Koodattu/wcl-vod-review)
   - 🪓[Fyr'alath Data Tracker](https://github.com/Koodattu/fyralath-data-tracker)
 
-- 🏫 Academy:
+#### 🏫 Academy
   - 📓[TUNI Projects](https://github.com/Koodattu/tuni-projects):
     - 🏆[GPT Lab Scorekeeper](https://github.com/Koodattu/TUNI-Projects/tree/main/gpt-lab-score-keeper)
   - 📕[SeAMK Projects](https://github.com/Koodattu/seamk-projects):
@@ -54,6 +54,6 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
     - 🎓[SeAMK WinhaWille](https://github.com/Koodattu/seamk-winhawille)
     - 🍔[SeAMK Ruoka](https://github.com/Koodattu/seamk-ruoka)
 
-- 🥪 Food:
+#### 🥪 Food
   - 🍱[Sodexo Lunch Menu App](https://github.com/Koodattu/sodexo-flutter-lunch-app)
   - 🍱[Staff Restaurant Lunch Menu App](https://github.com/Koodattu/lunch-menu-app)
