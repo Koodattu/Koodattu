@@ -38,7 +38,6 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
   - 🤖[AI-Powered Twitch Chat Bot](https://github.com/Koodattu/ai-vaarabot-ttv)
   - 🎵[Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
   - 🎧[Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
-  - 🍱[Staff Restaurant Lunch Menu App](https://github.com/Koodattu/lunch-menu-app)
 
 - 🏰 World of Warcraft
   - 🛡️[Finnish World of Warcraft Guild Progress Tracker](https://github.com/Koodattu/wow-guild-progress-tracker)
@@ -57,3 +56,4 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
 
 - 🥪 Food:
   - 🍱[Sodexo Lunch Menu App](https://github.com/Koodattu/sodexo-flutter-lunch-app)
+  - 🍱[Staff Restaurant Lunch Menu App](https://github.com/Koodattu/lunch-menu-app)
