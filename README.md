@@ -34,7 +34,7 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
   - 🎙️[Voice-Guided Image Generation and Editing with Local and Cloud Models](https://github.com/Koodattu/voice-guided-imaging)
 
 - 🎥 Twitch
-  - [Personal Twitch Stream Statistics Tracker](https://github.com/Koodattu/vaarattu.tv)
+  - 🧭[Personal Twitch Stream Statistics Tracker](https://github.com/Koodattu/vaarattu.tv)
   - 🤖[AI-Powered Twitch Chat Bot](https://github.com/Koodattu/ai-vaarabot-ttv)
   - 🎵[Twitch Song Request Desktop](https://github.com/Koodattu/twitch-song-request-desktop)
   - 🎧[Twitch Spotify Song Request](https://github.com/Koodattu/twitch-spotify-song-request)
@@ -46,9 +46,9 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
   - 🪓[Fyr'alath Data Tracker](https://github.com/Koodattu/fyralath-data-tracker)
 
 - 🏫 Academy:
-  - [TUNI Projects](https://github.com/Koodattu/tuni-projects):
-    - [GPT Lab Scorekeeper](https://github.com/Koodattu/TUNI-Projects/tree/main/gpt-lab-score-keeper)
-  - [SeAMK Projects](https://github.com/Koodattu/seamk-projects):
+  - 📓[TUNI Projects](https://github.com/Koodattu/tuni-projects):
+    - 🏆[GPT Lab Scorekeeper](https://github.com/Koodattu/TUNI-Projects/tree/main/gpt-lab-score-keeper)
+  - 📕[SeAMK Projects](https://github.com/Koodattu/seamk-projects):
     - 📅[SeAMK Lukkari](https://github.com/Koodattu/SeAMK-Lukkari)
     - 📱[Räccis SeAMK Food Royale](https://github.com/Koodattu/jere-food-royale-android)
     - ☕[Tsumppi Coffee Shop](https://github.com/Koodattu/tsumppi-coffee-shop)
