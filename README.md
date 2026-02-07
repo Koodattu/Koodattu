@@ -14,12 +14,12 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
 - 🔭 Always interested in everything about technology
 
 ### 🎉 What I like to do on my free time
-- I have always had a passion for 🎮 Games, watching cinematic 🎞️ Movies, not to mention binge watching 📺 Shows
-- Staying active by hitting the 💪 Gym, exploring by 🚲 Biking, clearing my head with 🚶 Walking
-- Whats always rewarding is 💽 Content Creation, to dive into all aspects of 🖥️ Technology, the most exciting being 🥽 Virtual Reality
-- I love exploring every genre of 🎧 Music, alongside playing the 🎸 Guitar, or the 🎹 Piano
-- I never miss my daily cup of ☕ Coffee, I'm constantly chasing the best 🥘 Food, and enjoy the joy of 🍳 Cooking
-- And lastly nothing beats motor vehicles like 🚗 Cars, and the thrill of 🏍️ Bikes
+- I have always had a passion for **🎮 Games**, watching cinematic **🎞️ Movies**, not to mention binge watching **📺 Shows**
+- Staying active by hitting the **💪 Gym**, exploring by **🚲 Biking**, clearing my head with **🚶 Walking**
+- Whats always rewarding is **💽 Content Creation**, to dive into all aspects of **🖥️ Technology**, the most exciting being **🥽 Virtual Reality**
+- I love exploring every genre of **🎧 Music**, alongside playing the **🎸 Guitar**, or the **🎹 Piano**
+- I never miss my daily cup of **☕ Coffee**, I'm constantly chasing the best **🥘 Food**, and enjoy the joy of **🍳 Cooking**
+- And lastly nothing beats motor vehicles like **🚗 Cars**, and the thrill of **🏍️ Bikes**
 
 ### 🚀 Project highlights
 
