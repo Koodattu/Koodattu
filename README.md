@@ -6,12 +6,12 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
 - Visit my [personal website](https://ala-ranta.la) or continue reading down below!
 
 ### 💭 About me
-- 🎯 Currently working at [Clevoy Oy](https://clevoy.io/) as a Chief Technology Officer, responsbile for the company's technical stack
-- 🎓 Master of Science in Information Technology graduate from [Tampere University](https://www.tuni.fi/en) with GPA of 4.52 (out of 5), received max grade of 5 (out of 5) for my [master's thesis](https://trepo.tuni.fi/handle/10024/230809)
-- 💼 I have over 6 years of professional experience working as a Software Engineer, Developer and Designer
-- 🛠️ Familiar with many tech stacks on many platforms, including web, desktop and mobile applications
-- 📜 Bachelor of Engineering in Information Technology graduate from [Seinäjoki University of Applied Sciences](https://www.seamk.fi/) with GPA of 4.24 (out of 5), received max grade of 5 (out of 5) for my [bachelor's thesis](https://www.theseus.fi/handle/10024/168319)
-- 🔭 Always interested in everything about technology
+- 🎯 Currently working at [Clevoy Oy](https://clevoy.io/) as a **Chief Technology Officer**, responsbile for the company's technical stack
+- 🎓 **Master of Science** in Information Technology graduate from [Tampere University](https://www.tuni.fi/en) with GPA of 4.52 (out of 5), received **max grade** of 5 (out of 5) for my [master's thesis](https://trepo.tuni.fi/handle/10024/230809)
+- 💼 I have over **6 years** of professional experience working as a **Software Engineer**, Developer and Designer
+- 🛠️ Familiar with many **tech stacks** on many **platforms**, including web, desktop and mobile applications
+- 📜 **Bachelor of Engineering** in Information Technology graduate from [Seinäjoki University of Applied Sciences](https://www.seamk.fi/) with GPA of 4.24 (out of 5), received **max grade** of 5 (out of 5) for my [bachelor's thesis](https://www.theseus.fi/handle/10024/168319)
+- 🔭 Always interested in everything about **technology**
 
 ### 🎉 What I like to do on my free time
 - I have always had a passion for **🎮 Games**, watching cinematic **🎞️ Movies**, not to mention binge watching **📺 Shows**
