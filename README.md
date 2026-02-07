@@ -23,7 +23,7 @@ My name is Juha Ala-Rantala, and I'm an end-to-end developer who's always intere
 
 ### 🚀 Project highlights
 
-#### 🌌 View all: [Projects Showcase](https://github.com/Koodattu/projects)
+- 🌌[All Projects Showcase](https://github.com/Koodattu/projects)
 
 #### 🧹 Misc
 - 🌐[Personal Website and Digital Portfolio](https://github.com/Koodattu/ala-ranta.la)
